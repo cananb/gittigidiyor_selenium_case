@@ -1,6 +1,6 @@
 # gittigidiyor_selenium_case
 
-# gittigidiyor-selenium-project
+
 Selenium Web Otomasyon
 - www.gittigidiyor.com sitesi açılır.
 - Ana sayfanın açıldığı kontrol edilir. Siteye login olunur
